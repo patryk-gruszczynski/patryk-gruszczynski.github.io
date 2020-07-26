@@ -1,4 +1,4 @@
-![cover](https://patryk-gruszczynski.github.io/canva.png)
+![cover](https://patryk-gruszczynski.github.io/public/canva.png)
 
 # PATRYK GRUSZCZYŃSKI - JUNIOR FRONTEND DEVELOPER  
 
